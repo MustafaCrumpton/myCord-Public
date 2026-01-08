@@ -1,5 +1,5 @@
 ## Mycord TCP Chat Client (C)
-## Final Project for CMPSC311 at Penn State University
+Final Project for CMPSC311 at Penn State University
 
 This project is a **custom TCP chat client written in C** that connects to a remote chat server using a defined binary protocol over **IPv4 TCP sockets**. The client demonstrates low-level networking, protocol implementation, concurrent I/O, and robust error handling on Linux/Unix systems.
 
